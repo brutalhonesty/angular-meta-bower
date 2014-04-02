@@ -1,0 +1,11 @@
+{
+  "name": "angular-meta-bower",
+  "version": "0.1.0",
+  "author": "Jason Pescione <jay@moonfuse.co>",
+  "description": "A title tag & meta description implementation for Angular JS apps",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
